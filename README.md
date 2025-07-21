@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekkumarsingh2824
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning cpp DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
